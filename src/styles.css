@@ -1,0 +1,143 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(236, 230, 145));
+opacity: 1;
+height:fit-content
+}
+
+.logo
+{
+  height: 4%;
+  width: 13%;
+  align-content: center;
+  margin-top: 0%;
+}
+
+.img1
+{
+  height: 63%;
+  width: 32%;
+}
+.img2
+{
+  height: 66%;
+  width: 90%;
+  margin-left: 6%;
+}
+.img3
+{
+  height: 30%;
+  width: 77%;
+  align-content:center;
+  margin-bottom: -1.5vh;
+}
+.ab{
+  padding-left: 28%;
+  padding-right: 27.5%;
+  align-content:center;
+}
+.abc{
+  display: flex;
+  align-content:center;
+  margin-top: -2vh;
+}
+.mar{
+  align-content: flex-start;
+  margin-Left:-1%;
+}
+.gap{
+  display: flex;
+  align-content: space-between;
+}
+.t1{
+  font-family: Cambria, Cochin;
+  font-size: 1.1vh;
+  font-weight: bolder;
+  text-align:left;  
+  margin-left: -18%;
+  margin-bottom: -2vh;
+}
+.t2{
+  font-family: Cambria, Cochin;
+  font-size: 1.1vh;
+  text-align: left;
+  margin-left: 0vh;
+  margin-top: -1vh;
+}
+.t3{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  text-align: left;
+  margin-left: 4vh; 
+}
+.t4{
+  font-family: Cambria, Cochin;
+  font-size: 1.2vh;
+  font-weight: bolder;
+  text-align:left;  
+  margin-left: 0vh;
+  
+}
+.t5{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  font-weight: bold;
+  text-align:center;  
+  margin: 0.1vh;
+  color: rgb(245, 74, 74);
+}
+.t6{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  font-weight:bold;
+  text-align:center;  
+  margin-left: 0vh;
+}
+.t7{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  font-weight: bolder;
+  text-align:center;  
+  margin: 1vh;
+  border: 10%;
+}
+.t8{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  text-align: center;
+  margin-top: 0vh; 
+}
+.t9{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;
+  font-weight: bold;
+  text-align:center;  
+  margin: 0.1vh;
+  color: rgb(255, 255, 255);
+}
+.t10{
+  font-family: Cambria, Cochin;
+  font-size: 1vh;  
+  margin-left: 0vw;
+  color: rgb(255, 255, 255);
+  margin-left:17%;
+  display: flex;
+  align-content: space-between;
+}
+
+.box{
+background: rgb(228, 49, 49);
+height:8vh;
+opacity: 1;
+margin-top: 2vh;
+margin-bottom: 1.5vh;
+}
+.line{
+  background: rgb(235, 53, 53);
+  height:0.25vh;
+  opacity: 1;
+  margin-top: 0.5vh;
+  }
